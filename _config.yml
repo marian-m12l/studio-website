@@ -3,3 +3,5 @@ title: STUdio - Story Teller Unleashed
 description: A set of tools to read, create and transfer story packs from and to the Lunii* story teller device.
 show_downloads: true
 download_url: https://github.com/marian-m12l/studio/releases/latest
+github:
+  repository_url: https://github.com/marian-m12l/studio
